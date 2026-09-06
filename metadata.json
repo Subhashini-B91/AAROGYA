@@ -1,0 +1,6 @@
+{
+  "name": "AAROGYA — Patient Case Taking Software",
+  "description": "Patient case-taking software with real-time clinical extraction, AYUSH & allopathic departments, and physician management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
